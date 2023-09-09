@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">A passionate musician and A full-stack developer</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400" src="https://ahmadabokassem.netlify.app/onstage.jpg">
 
 <h2 align="left">project i have done:</h2>
 
